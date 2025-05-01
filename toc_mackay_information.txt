@@ -1,0 +1,63 @@
+1$Preface
+	1$1 Introduction to Information Theory  
+	22$2 Probability, Entropy, and Inference  
+	48$3 More about Inference  
+65$I Data Compression  
+	67$4 The Source Coding Theorem  
+	91$5 Symbol Codes  
+	110$6 Stream Codes  
+	132$7 Codes for Integers  
+137$II Noisy-Channel Coding  
+	138$8 Dependent Random Variables  
+	146$9 Communication over a Noisy Channel  
+	162$10 The Noisy-Channel Coding Theorem  
+	177$11 Error-Correcting Codes and Real Channels  
+191$III Further Topics in Information Theory  
+	193$12 Hash Codes: Codes for Efficient Information Retrieval  
+	206$13 Binary Codes  
+	229$14 Very Good Linear Codes Exist  
+	233$15 Further Exercises on Information Theory  
+	241$16 Message Passing  
+	248$17 Communication over Constrained Noiseless Channels  
+	260$18 Crosswords and Codebreaking  
+	269$19 Why Have Sex? Information Acquisition and Evolution  
+281$IV Probabilities and Inference  
+	284$20 An Example Inference Task: Clustering  
+	293$21 Exact Inference by Complete Enumeration  
+	300$22 Maximum Likelihood and Clustering  
+	311$23 Useful Probability Distributions  
+	319$24 Exact Marginalization  
+	324$25 Exact Marginalization in Trellises  
+	334$26 Exact Marginalization in Graphs  
+	341$27 Laplace's Method  
+	343$28 Model Comparison and Occam's Razor  
+	357$29 Monte Carlo Methods  
+	387$30 Efficient Monte Carlo Methods  
+	400$31 Ising Models  
+	413$32 Exact Monte Carlo Sampling  
+	422$33 Variational Methods  
+	437$34 Independent Component Analysis and Latent Variable Modelling  
+	445$35 Random Inference Topics  
+	451$36 Decision Theory  
+	457$37 Bayesian Inference and Sampling Theory  
+467$V Neural Networks  
+	468$38 Introduction to Neural Networks  
+	471$39 The Single Neuron as a Classifier  
+	483$40 Capacity of a Single Neuron  
+	492$41 Learning as Inference  
+	505$42 Hopfield Networks  
+	522$43 Boltzmann Machines  
+	527$44 Supervised Learning in Multilayer Networks  
+	535$45 Gaussian Processes  
+	549$46 Deconvolution  
+555$VI Sparse Graph Codes  
+	557$47 Low-Density Parity-Check Codes  
+	574$48 Convolutional Codes and Turbo Codes  
+	582$49 Repeat-Accumulate Codes  
+	589$50 Digital Fountain Codes  
+597$VII Appendices  
+	598$A Notation  
+	601$B Some Physics  
+	605$C Some Mathematics  
+	613$Bibliography  
+	620$Index  

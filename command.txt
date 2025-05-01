@@ -1,0 +1,1 @@
+python toc.py toc -input durrett_probability_theory_4th.pdf -config durrett -offset 0

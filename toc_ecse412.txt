@@ -1,0 +1,85 @@
+1$1 Introduction
+	1$1.1 The concepts of signal and system
+	5$1.2 Digital signal processing
+	9$1.3 Applications of DSP
+	12$1.4 Course organization
+13$2 Discrete-time signals and systems
+	13$2.1 Discrete-time (DT) signals
+	17$2.2 DT systems
+	20$2.3 Linear time-invariant (LTI) systems
+	24$2.4 LTI systems described by linear constant coefficient difference equations (LCCDE)
+	26$2.5 Problems
+30$3 Discrete-time Fourier transform (DTFT)
+	30$3.1 The DTFT and its inverse
+	31$3.2 Convergence of the DTFT
+	37$3.3 Properties of the DTFT
+	40$3.4 Frequency analysis of LTI systems
+	43$3.5 LTI systems characterized by LCCDE
+	44$3.6 Ideal frequency selective filters
+	45$3.7 Phase delay and group delay
+	47$3.8 Problems
+49$4 The z-transform (ZT)
+	49$4.1 The ZT
+	51$4.2 Study of the ROC and ZT examples
+	55$4.3 Properties of the ZT
+	58$4.4 Rational ZTs
+	61$4.5 Inverse ZT
+	66$4.6 The one-sided ZT
+	67$4.7 Problems
+70$5 Z-domain analysis of LTI systems
+	70$5.1 The system function
+	71$5.2 LTI systems described by LCCDE
+	73$5.3 Frequency response of rational systems
+	75$5.4 Analysis of certain basic systems
+	83$5.5 More on magnitude response
+	85$5.6 All-pass systems
+	88$5.7 Inverse system
+	90$5.8 Minimum-phase system
+	93$5.9 Problems
+97$6 The discrete Fourier Transform (DFT)
+	98$6.1 The DFT and its inverse
+	101$6.2 Relationship between the DFT and the DTFT
+	105$6.3 Signal reconstruction via DTFT sampling
+	106$6.4 Properties of the DFT
+	117$6.5 Relation between linear and circular convolutions
+	125$6.6 Problems
+127$7 Digital processing of analog signals
+	128$7.1 Uniform sampling and the sampling theorem
+	134$7.2 Discrete-time processing of continuous-time signals
+	138$7.3 A/D conversion
+	144$7.4 D/A conversion
+147$8 Structures for the realization of DT systems
+	148$8.1 Signal flow-graph representation
+	151$8.2 Realizations of IIR systems
+	159$8.3 Realizations of FIR systems
+166$9 Filter design
+	166$9.1 Introduction
+	169$9.2 Design of IIR filters
+	183$9.3 Design of FIR filters
+200$10 Quantization effects
+	201$10.1 Binary number representation and arithmetic
+	204$10.2 Effects of coefficient quantization
+	207$10.3 Quantization noise in digital filters
+	216$10.4 Scaling to avoid overflow
+219$11 Fast Fourier transform (FFT)
+	219$11.1 Direct computation of the DFT
+	220$11.2 Overview of FFT algorithms
+	221$11.3 Radix-2 FFT via decimation-in-time
+	227$11.4 Decimation-in-frequency
+	229$11.5 Final remarks
+230$12 An introduction to Digital Signal Processors
+	230$12.1 Introduction
+	233$12.2 Why PDSPs?
+	233$12.3 Characterization of PDSPs
+	242$12.4 Benchmarking PDSPs
+	243$12.5 Current Trends
+244$13 Multirate systems
+	244$13.1 Introduction
+	245$13.2 Downsampling by an integer factor
+	249$13.3 Upsampling by an integer factor
+	253$13.4 Changing sampling rate by a rational factor
+	254$13.5 Polyphase decomposition
+259$14 Applications of the DFT and FFT
+	259$14.1 Block FIR filtering
+	264$14.2 Frequency analysis via DFT/FFT
+271$References

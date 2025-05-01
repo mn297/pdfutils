@@ -1,0 +1,15 @@
+1$1 Historical Notes
+9$2 From Observation to Simulation
+25$3 Building the Stochastic Matrix
+36$4 Predictions Using Two-State Markov Chains
+59$5 Predictions Using n-State Markov Chains
+90$6 Absorbing Markov Chains
+95$7 The Average Time Spent in Each State
+103$8 Discussions on Different Configurations of Chains
+127$9 The Simulation of an n-State Markov Chain
+160$A Supporting Algorithms in PHP
+188$B Supporting Algorithms in Javascript
+216$C Syntax Equivalence between Languages
+225$Glossary
+227$References
+231$Index
